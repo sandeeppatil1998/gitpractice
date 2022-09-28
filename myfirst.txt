@@ -1,6 +1,14 @@
 hello world from myfirst from git 1
 changes made from git 1
+<<<<<<< HEAD
 
 
 
 merge
+=======
+modified
+>>>>>>> 94a72cd7dddf273103336854b3d41f2cb5b8250e
+
+
+
+from sandeep
